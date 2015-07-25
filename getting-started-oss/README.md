@@ -146,17 +146,17 @@ git rebase --abort
 
 ### Fork Project on Github
 
-[![Fork]](django-fork.png)
+[![Fork](django-fork.png)]
 
 You should be redirected to the fork on your Github account.
 
-[![Fork successful]](django-my-fork.png)
+[![Fork successful](django-my-fork.png)]
 
 ### Clone your fork
 
 #### Find the SSH url of your fork on Github
 
-[![Clone]](django-clone.png)
+[![Clone](django-clone.png)]
 
 #### Clone the repository
 
@@ -165,7 +165,7 @@ git clone git@github.com:rmw/django.git
 ```
 
 You should see something like this
-[![Git Clone]](git-clone.png)
+[![Git Clone](git-clone.png)]
 
 ### Change to repository directory
 
@@ -177,7 +177,7 @@ git remote -v
 ```
 
 You should see something like this
-[![Git remote]](git-remote.png)
+[![Git remote](git-remote.png)]
 
 
 ### Add “upstream” remote
@@ -188,7 +188,7 @@ git remote add upstream git@github.com:django/django.git
 ```
 
 You should see something like this
-[![Git upstream]](git-upstream.png)
+[![Git upstream](git-upstream.png)]
 
 ## Set up a project
 - Follow set up instructions
