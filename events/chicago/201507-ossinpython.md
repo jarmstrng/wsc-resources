@@ -13,6 +13,7 @@ Thank you [Enova](https://www.enova.com/), [Braintree](https://www.braintreepaym
 * [Resources](http://bit.ly/wsc-oss-resources)
 * [Slack](http://bit.ly/2015-oss-py-slack)
 * [Pull Request Raffle form!](http://bit.ly/2015-oss-py-pr)
+* [Give us some feedback (thanks!)](https://docs.google.com/forms/d/1e8-KGA9oN1JDvHqqed4KwGHzi0cWwWmC-1mmny4wB5o/viewform?usp=send_form)
 
 ## Code Resources
 - [Try Git](https://try.github.io/levels/1/challenges/1)
