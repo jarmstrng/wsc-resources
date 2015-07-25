@@ -251,9 +251,9 @@ If don’t finish or not the maintainer is not using Github issues, post an upda
 ### How to search the internet
 - What version? How recent?
 - Google
-- - Look at most recent results first
+  - Look at most recent results first
 - StackOverflow
-- - Look at many answers
+  - Look at many answers
 
 *Pro tip: document your errors and solutions*
 
@@ -274,10 +274,10 @@ If don’t finish or not the maintainer is not using Github issues, post an upda
 ### How to write a bug report
 - the exact error you are getting, including the error message
 - detailed repeatable steps for the error
-- - what did you click on? did you click, tab, press enter, or hit another key?
-- - what page did you start on? what page did you end up on?
+  - what did you click on? did you click, tab, press enter, or hit another key?
+  - what page did you start on? what page did you end up on?
 - details of where & what you are working on, including the version
-- - browser,  operating system, device, language
+  - browser,  operating system, device, language
 - screenshots of the error
 
 ### Good commit messages
@@ -285,9 +285,9 @@ If don’t finish or not the maintainer is not using Github issues, post an upda
 - Word wrap (72-80 chars)
 - One commit per change
 - Answer:
-- - Why is this change necessary?
-- - How does it address the issue?
-- - What side effects does it have?
+  - Why is this change necessary?
+  - How does it address the issue?
+  - What side effects does it have?
 - Include link to issue/ticket and external sources
 
 ### Before you create a pull request
