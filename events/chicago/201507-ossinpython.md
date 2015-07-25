@@ -1,10 +1,9 @@
 # Getting started in open source in python
-
-## July 25, 2015
-
 ### Write/Speak/Code + PyLadies Chicago
-### Event host: Enova
-#### Sponsors: Braintree + thoughtbot
+### July 25, 2015 | [Enova](https://www.enova.com/), Chicago, IL
+
+
+### Thank you [Enova](https://www.enova.com/), [Braintree](https://www.braintreepayments.com/) + [thoughtbot](https://thoughtbot.com/chicago)!
 
 --------------
 
